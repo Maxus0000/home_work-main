@@ -1,0 +1,11 @@
+.section{
+  ;
+}
+.images{
+box-sizing: border-box;
+width: 300px;
+padding: 25px;
+border: 3px solid rgb(124, 74, 12);
+margin: 30px;
+background-color:bisque
+}
