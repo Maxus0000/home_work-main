@@ -1,11 +1,23 @@
-.section{
-  ;
+body{
+  margin: 0 auto;
 }
+
 .images{
-box-sizing: border-box;
-width: 300px;
-padding: 25px;
-border: 3px solid rgb(124, 74, 12);
-margin: 30px;
-background-color:bisque
+  display: block;
+  margin:auto;
+  box-sizing:border-box;
+  width: 600px;
+  border: 5px red solid;
+  padding: 30px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+
+.images_dog{
+  width: 33.33%;
+  border:5px rgb(117, 70, 13) solid;
+  margin: 10px;
+  padding: 7px;
+  background-color:bisque;
 }
